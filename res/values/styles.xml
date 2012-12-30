@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resources>
+   <!-- Matte -->
+    <style name="Matte" parent="@android:style/Theme" />
+    <!-- Systemui -->
+    <style name="TextAppearance.StatusBar.EventContent.Line2" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Info" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style> 
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#ff00a1d6</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Ticker" parent="@style/TextAppearance.StatusBar.Ticker">
+        <item name="android:textColor">#ffffffff</item>
+    </style> 
+    <style name="TextAppearance.StatusBar.Title" parent="@android:style/Animation">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.SystemPanel" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textAppearance">?android:textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.TextButton" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textAppearance">?android:textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.PhoneTicker" parent="@android:style/Theme.Holo.Wallpaper">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <!-- Custom color on the text in list section dividers -->
+<!--    <style name="Widget.Holo.TextView" parent="@android:style/Widget.TextView">
+    </style>
+    <style name="Widget.Holo.TextView.ListSeparator" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/frameworks_res_list_section_divider_holo_dark</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#ff00a1d6</item> 
+    </style>
+    <style name="Widget.Holo.Light.TextView" parent="@android:style/Widget.TextView">
+    </style>
+    <style name="Widget.Holo.Light.TextView.ListSeparator" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/frameworks_res_list_section_divider_holo_light</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#ff0099cc</item> 
+    </style> -->
+</resources>

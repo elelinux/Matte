@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <!-- Color -->
+
+    <!-- Style -->
+
+    <!-- Drawable -->
+    <item name="drawable/bg_arrow_focus">@drawable/com_android_email_bg_arrow_focus</item>
+    <item name="drawable/bg_arrow_press">@drawable/com_android_email_bg_arrow_press</item>
+    <item name="drawable/btn_check_off_normal_holo_light">@drawable/com_android_email_btn_check_off_normal_holo_light</item>
+    <item name="drawable/btn_maybe_focused">@drawable/com_android_email_btn_maybe_focused</item>
+    <item name="drawable/btn_maybe_pressed">@drawable/com_android_email_btn_maybe_pressed</item>
+    <item name="drawable/btn_no_focused">@drawable/com_android_email_btn_no_focused</item>
+    <item name="drawable/btn_no_pressed">@drawable/com_android_email_btn_no_pressed</item>
+    <item name="drawable/btn_yes_focused">@drawable/com_android_email_btn_yes_focused</item>
+    <item name="drawable/btn_yes_pressed">@drawable/com_android_email_btn_yes_pressed</item>
+    <item name="drawable/gradient_bg_email_widget_holo">@drawable/com_android_email_gradient_bg_email_widget_holo</item>
+    <item name="drawable/header_bg_email_widget_holo">@drawable/com_android_email_header_bg_email_widget_holo</item>
+    <item name="drawable/header_convo_view_sender_bg_holo">@drawable/com_android_email_header_convo_view_sender_bg_holo</item>
+    <item name="drawable/ic_badge_attachment">@drawable/com_android_email_ic_badge_attachment</item>
+    <item name="drawable/ic_badge_forward_holo_light">@drawable/com_android_email_ic_badge_forward_holo_light</item>
+    <item name="drawable/ic_badge_invite_holo_light">@drawable/com_android_email_ic_badge_invite_holo_light</item>
+    <item name="drawable/ic_badge_reply_forward_holo_light">@drawable/com_android_email_ic_badge_reply_forward_holo_light</item>
+    <item name="drawable/ic_badge_reply_holo_light">@drawable/com_android_email_ic_badge_reply_holo_light</item>
+    <item name="drawable/ic_folder_drafts_holo_light">@drawable/com_android_email_ic_folder_drafts_holo_light</item>
+    <item name="drawable/ic_folder_inbox_holo_light">@drawable/com_android_email_ic_folder_inbox_holo_light</item>
+    <item name="drawable/ic_folder_outbox_holo_light">@drawable/com_android_email_ic_folder_outbox_holo_light</item>
+    <item name="drawable/ic_folder_sent_holo_light">@drawable/com_android_email_ic_folder_sent_holo_light</item>
+    <item name="drawable/ic_list_combined_inbox">@drawable/com_android_email_ic_list_combined_inbox</item>
+    <item name="drawable/ic_mailbox_collapsed_holo_light">@drawable/com_android_email_ic_mailbox_collapsed_holo_light</item>
+    <item name="drawable/ic_menu_compose_normal_holo_light">@drawable/com_android_email_ic_menu_compose_normal_holo_light</item>
+    <item name="drawable/ic_menu_mark_read_holo_light">@drawable/com_android_email_ic_menu_mark_read_holo_light</item>
+    <item name="drawable/ic_menu_mark_unread_holo_light">@drawable/com_android_email_ic_menu_mark_unread_holo_light</item>
+    <item name="drawable/ic_menu_move_to_holo_light">@drawable/com_android_email_ic_menu_move_to_holo_light</item>
+    <item name="drawable/ic_menu_refresh_holo_light">@drawable/com_android_email_ic_menu_refresh_holo_light</item>
+    <item name="drawable/ic_menu_search_holo_light">@drawable/com_android_email_ic_menu_search_holo_light</item>
+    <item name="drawable/ic_menu_send_disabled_holo_light">@drawable/com_android_email_ic_menu_send_disabled_holo_light</item>
+    <item name="drawable/ic_menu_send_holo_light">@drawable/com_android_email_ic_menu_send_holo_light</item>
+    <item name="drawable/ic_menu_send_normal_holo_light">@drawable/com_android_email_ic_menu_send_normal_holo_light</item>
+    <item name="drawable/ic_menu_star_holo_light">@drawable/com_android_email_ic_menu_star_holo_light</item>
+    <item name="drawable/ic_menu_star_off_holo_light">@drawable/com_android_email_ic_menu_star_off_holo_light</item>
+    <item name="drawable/ic_menu_trash_holo_light">@drawable/com_android_email_ic_menu_trash_holo_light</item>
+    <item name="drawable/ic_newer_arrow_disabled_holo_light">@drawable/com_android_email_ic_newer_arrow_disabled_holo_light</item>
+    <item name="drawable/ic_newer_arrow_holo_light">@drawable/com_android_email_ic_newer_arrow_holo_light</item>
+    <item name="drawable/ic_older_arrow_disabled_holo_light">@drawable/com_android_email_ic_older_arrow_disabled_holo_light</item>
+    <item name="drawable/ic_older_arrow_holo_light">@drawable/com_android_email_ic_older_arrow_holo_light</item>
+    <item name="drawable/ic_remove_attachment_holo_light">@drawable/com_android_email_ic_remove_attachment_holo_light</item>
+    <item name="drawable/ic_reply_all">@drawable/com_android_email_ic_reply_all</item>
+    <item name="drawable/ic_reply">@drawable/com_android_email_ic_reply</item>
+    <item name="drawable/ic_show_images_holo_light">@drawable/com_android_email_ic_show_images_holo_light</item>
+    <item name="drawable/ic_spam_normal_holo_light">@drawable/com_android_email_ic_spam_normal_holo_light</item>
+    <item name="drawable/list_div_top_btm_email_widget">@drawable/com_android_email_list_div_top_btm_email_widget</item>
+    <item name="drawable/list_item_font_primary">@drawable/com_android_email_list_item_font_primary</item>
+    <item name="drawable/list_item_font_secondary">@drawable/com_android_email_list_item_font_secondary</item>
+    <item name="drawable/list_read_holo">@drawable/com_android_email_list_read_holo</item>
+    <item name="drawable/list_unread_holo">@drawable/com_android_email_list_unread_holo</item>
+    <item name="drawable/one_pixel_border_pressed">@drawable/com_android_email_one_pixel_border_pressed</item>
+    <item name="drawable/one_pixel_border_selected">@drawable/com_android_email_one_pixel_border_selected</item>
+    <item name="mipmap/ic_launcher_email">@drawable/com_android_email_ic_launcher_email</item>
+</resource-redirections>
