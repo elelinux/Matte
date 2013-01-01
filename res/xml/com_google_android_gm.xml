@@ -79,4 +79,5 @@
     <item name="drawable/list_unread_holo">@drawable/com_google_android_gm_list_unread_holo</item>
     <item name="mipmap/ic_launcher_mail">@mipmap/com_google_android_gm_ic_launcher_mail</item>
     <item name="mipmap/ic_launcher_shortcut_gmail">@mipmap/com_google_android_gm_ic_launcher_shortcut_gmail</item>
+    <item name="drawable/stat_notify_email">@drawable/com_google_android_gm_stat_notify_email</item>
 </resource-redirections>

@@ -17,6 +17,11 @@
  -->
 
 <resource-redirections>
+    <!-- CM10.1 support -->
+    <item name="drawable/appwidget_clock_second">@drawable/com_android_deskclock_appwidget_clock_second</item>
+    <item name="drawable/appwidget_analog_clock_preview">@drawable/appwidget_analog_clock_preview</item>
+    <item name="drawable/appwidget_digital_clock_preview">@drawable/appwidget_digital_clock_preview</item>
+
     <!-- Matte Clock Theme -->
     <item name="drawable/ic_indicator_on">@drawable/com_android_deskclock_ic_indicator_on</item>
     <item name="drawable/appwidget_clock_dial">@drawable/com_android_deskclock_appwidget_clock_dial</item>
