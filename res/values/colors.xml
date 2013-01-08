@@ -71,9 +71,11 @@
     <color name="hint_foreground_holo_dark">#808080</color>
     <color name="hint_foreground_holo_light">#808080</color>
     <color name="hint_foreground_light">#808080</color>
+
     <color name="holo_blue_bright">#ff00a1d6</color>
     <color name="holo_blue_dark">#ff0099cc</color>
     <color name="holo_blue_light">#ff33b5e5</color>
+
     <color name="holo_green_dark">#ff669900</color>
     <color name="holo_green_light">#ff99cc00</color>
     <color name="holo_orange_dark">#ffff8800</color>
@@ -111,6 +113,17 @@
     <color name="suggestion_highlight_text">#177bbd</color>
     <color name="transparent">#00000000</color>
     <color name="white">#ffffffff</color>
+
+    <!-- Extra -->
+    <color name="lightest_gray">#ffededed</color>
+
+    <!-- Mms -->
+    <color name="mms_background_primary">#ff000000</color>
+    <color name="mms_dark_blue">#ff00a1d6</color>
+    <color name="mms_lightest_gray">#ffededed</color>
+    <color name="mms_link_text_holo_light">#ffededed</color>
+    <color name="mms_timestamp_color">#ffededed</color>
+    <color name="mms_white">#ffededed</color>
 
     <!-- test for change color in list dividers -->
     <color name="listDivider">#ff00a1d6</color>

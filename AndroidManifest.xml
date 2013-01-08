@@ -20,7 +20,7 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.Matte"
     android:versionCode="6"
-    android:versionName="1.0.0.1"
+    android:versionName="1.0.0.2"
     android:installLocation="internalOnly"
     android:hasCode="false">
 
