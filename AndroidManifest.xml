@@ -30,10 +30,6 @@
     <application android:label="@string/theme_name"
         android:icon="@drawable/icon"/>
 
-    <activity 
-        android:label="@string/theme_name"
-        android:name="com.tmobile.theme.Foo" />
-
     <theme
         pluto:themeId="Matte"
         pluto:styleId="@style/Matte"
