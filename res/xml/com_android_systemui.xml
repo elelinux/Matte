@@ -51,13 +51,13 @@
     <item name="style/TextAppearance.Widget.DropDownItem">@style/Theme.Holo.Light.DarkActionBar</item>
 
     <!-- update CM10/AOKP-JB -->
-    <item name="drawable/nav_bar_bg">@drawable/com_android_systemui_nav_bar_bg</item>
+<!--    <item name="drawable/nav_bar_bg">@drawable/com_android_systemui_nav_bar_bg</item>
     <item name="drawable/navigationbar_background">@drawable/com_android_systemui_navigationbar_background</item>
     <item name="drawable/navigationbar_background_land">@drawable/com_android_systemui_navigationbar_background_land</item>
     <item name="drawable/notification_header_background">@drawable/com_android_systemui_notification_header_background</item>
     <item name="drawable/notification_header_bg">@drawable/com_android_systemui_notification_header_bg</item>
     <item name="drawable/notification_item_background">@drawable/com_android_systemui_notification_item_background</item>
-    <item name="drawable/notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</item>
+    <item name="drawable/notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</item> -->
     <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
     <item name="drawable/notification_tracking_bg">@drawable/com_android_systemui_notification_tracking_bg</item>
 
