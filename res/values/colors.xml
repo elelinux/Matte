@@ -125,8 +125,10 @@
     <color name="mms_timestamp_color">#ffededed</color>
     <color name="mms_white">#ffededed</color>
 
-    <!-- test for change color in list dividers -->
-    <color name="listDivider">#ff00a1d6</color>
+    <color name="delivery_report_header">#000000</color>
+    <color name="delivery_report_recipient">#ffffff</color>
+    <color name="delivery_report_status">#ffffff</color>
+    <color name="delivery_report_date">#ffffff</color>
 
     <!-- Play Store  -->
     <color name="matte_apps_background">#ff00a1d6</color>
