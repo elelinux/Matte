@@ -108,6 +108,91 @@
         <item name="android:textSize">14.0dip</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
+    <!-- CM10.1 SystemUi Stock -->
+<!--    <style name="TextAppearance.StatusBar.IntruderAlert"
+        parent="@android:style/TextAppearance.StatusBar">
+    </style>
+    <style name="TextAppearance.StatusBar.SystemPanel"
+        parent="@android:style/TextAppearance.StatusBar">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FF808080</item>
+    </style>
+    <style name="TextAppearance.StatusBar.TextButton"
+        parent="@android:style/TextAppearance.StatusBar">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Battery" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">12dp</item>         
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16dp</item>           
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Date" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Expanded" parent="@android:style/TextAppearance.StatusBar" />
+    <style name="TextAppearance.StatusBar.Expanded.Clock">
+        <item name="android:textSize">32dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/clock_view_color</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Expanded.Date">
+        <item name="android:textSize">12dp</item>  
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/date_view_color</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Expanded.Network" parent="@style/TextAppearance.StatusBar.Expanded.Date">
+        <item name="android:textColor">#999999</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Signal" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">12dp</item>        
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Expanded.Network.EmergencyOnly">
+    </style>
+    <style name="TextAppearance" />
+    <style name="TextAppearance.QuickSettings" />
+    <style name="TextAppearance.QuickSettings.TileView">
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#CCCCCC</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:fadingEdge">horizontal</item>
+    </style>
+    <style name="TextAppearance.QuickSettings.Clock" parent="@style/TextAppearance.QuickSettings.TileView">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+    <style name="TextAppearance.QuickSettings.Date" parent="@style/TextAppearance.QuickSettings.TileView">
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="TextAppearance.QuickSettings.Alarm" parent="@style/TextAppearance.QuickSettings.TileView">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">#ff3a3b39</item>
+    </style>
+    <style name="TextAppearance.StatusBar.PhoneTicker"
+        parent="@android:style/TextAppearance.StatusBar.Ticker">       
+        <item name="android:textSize">14dp</item>
+    </style>  -->
+    <!-- CM10.1 Stock End -->
     <!-- Custom color on the text in list section dividers -->
 <!--    <style name="Widget.Holo.TextView" parent="@android:style/Widget.TextView">
     </style>
@@ -123,4 +208,53 @@
         <item name="android:textAllCaps">true</item>
         <item name="android:textColor">#ff0099cc</item> 
     </style> -->
+
+    <!-- Email -->
+    <style name="ComposeBodyStyle">
+        <item name="android:textColor">@color/med_gray</item>
+        <item name="android:textColorHint">@color/med_gray</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">42.0dip</item>
+        <item name="android:inputType">textLongMessage|textCapSentences|textAutoCorrect|textMultiLine</item>
+        <item name="android:imeOptions">actionDone|flagNoExtractUi|flagNoEnterAction</item>
+    </style>
+    <style name="ComposeFieldLayout" parent="@android:style/Widget.Holo.EditText">
+        <item name="android:textColor">#ffe8713f</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="EmailTheme" parent="@android:style/Theme.Holo" />
+    <style name="PlainEditText" parent="@android:style/Widget.Holo.EditText">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="widget_list_item">
+        <item name="android:textColor">#ffe8713f</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    <style name="unreadCount">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/holo_blue_bright</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="unreadCountActionBar" parent="@style/unreadCount">
+        <item name="android:textSize">36.0dip</item>
+        <item name="android:textColor">@color/holo_blue_bright</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+    <!-- Email end -->
 </resources>
