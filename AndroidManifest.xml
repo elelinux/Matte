@@ -24,6 +24,11 @@
     android:installLocation="internalOnly"
     android:hasCode="false">
 
+    <application name="Matte" android:hasCode="false" android:icon="@drawable/icon" android:label="Matte">
+    </application>
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="16" />
+
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 
@@ -31,7 +36,6 @@
         pluto:themeId="Matte"
         pluto:styleId="@style/Matte"
         pluto:name="@string/theme_name"
-        pluto:icon="@drawable/icon"
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"
         pluto:copyright="@string/copyright"
