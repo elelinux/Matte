@@ -119,6 +119,7 @@
     <color name="email_section_header_text_color">#ff00a1d6</color>
     <color name="med_gray">#ff555555</color>
     <color name="blue">#ff00a1d6</color>
+    <color name="pink">#ffff00ba</color> 
 
     <!-- Mms -->
     <color name="mms_background_primary">#ff000000</color>

@@ -31,10 +31,10 @@
     <item name="color/message_view_header_color">@color/lightest_gray</item>
     <item name="color/message_view_header_color">@color/white</item>
     <item name="color/senders_text_color_read">@color/white</item>
-    <item name="color/senders_text_color_unread">@color/lightest_gray</item>
-    <item name="color/snippet_text_color_read">@color/white</item>
+    <item name="color/senders_text_color_unread">@color/holo_blue_bright</item>
+    <item name="color/snippet_text_color_read">@color/holo_blue_bright</item>
     <item name="color/snippet_text_color_unread">@color/lightest_gray</item>
-    <item name="color/subject_text_color_read">@color/white</item>
+    <item name="color/subject_text_color_read">@color/holo_blue_bright</item>
     <item name="color/subject_text_color_unread">@color/lightest_gray</item>
     <item name="color/text_color_primary_invertible">@color/com_android_email_text_color_primary_invertible</item>
     <item name="color/text_primary_color">@color/white</item>
@@ -45,7 +45,8 @@
     <item name="color/widget_light_text_color">@color/lightest_gray</item>
     <item name="color/widget_title_color">@color/holo_blue_bright</item>
     <item name="color/widget_unread_color">@color/holo_blue_bright</item>
-
+    <item name="color/text_primary_color_inverse">@color/white</item>
+    <item name="color/text_secondary_color_inverse">@color/lightest_gray</item>
 
     <!-- Style -->
     <item name="style/ComposeBodyStyle">@style/ComposeBodyStyle</item>
