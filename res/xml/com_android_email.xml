@@ -31,21 +31,23 @@
     <item name="color/message_view_header_color">@color/lightest_gray</item>
     <item name="color/message_view_header_color">@color/white</item>
     <item name="color/senders_text_color_read">@color/white</item>
-    <item name="color/senders_text_color_unread">@color/lightest_gray</item>
-    <item name="color/snippet_text_color_read">@color/white</item>
+    <item name="color/senders_text_color_unread">@color/holo_blue_bright</item>
+    <item name="color/snippet_text_color_read">@color/holo_blue_bright</item>
     <item name="color/snippet_text_color_unread">@color/lightest_gray</item>
-    <item name="color/subject_text_color_read">@color/white</item>
+    <item name="color/subject_text_color_read">@color/holo_blue_bright</item>
     <item name="color/subject_text_color_unread">@color/lightest_gray</item>
     <item name="color/text_color_primary_invertible">@color/com_android_email_text_color_primary_invertible</item>
     <item name="color/text_primary_color">@color/white</item>
-    <item name="color/text_secondary_color">@color/lightest_gray</item>
-    <item name="color/text_ternary_color">@color/lightest_gray</item>
+    <item name="color/text_secondary_color">#666666</item>
+    <item name="color/text_ternary_color">#aaaaaa</item>
+    <item name="color/text_disabled_color">#888888</item>
     <item name="color/unread_conversation_subject_text">@color/lightest_gray</item>
     <item name="color/widget_default_text_color">@color/white</item>
     <item name="color/widget_light_text_color">@color/lightest_gray</item>
     <item name="color/widget_title_color">@color/holo_blue_bright</item>
     <item name="color/widget_unread_color">@color/holo_blue_bright</item>
-
+    <item name="color/text_primary_color_inverse">@color/white</item>
+    <item name="color/text_secondary_color_inverse">@color/lightest_gray</item>
 
     <!-- Style -->
     <item name="style/ComposeBodyStyle">@style/ComposeBodyStyle</item>
