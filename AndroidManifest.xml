@@ -21,8 +21,7 @@
     package="com.tmobile.theme.Matte"
     android:versionCode="13"
     android:versionName="1.0.0.8"
-    android:installLocation="internalOnly"
-    android:hasCode="false">
+    android:installLocation="internalOnly">
 
     <application name="Matte" android:hasCode="false" android:icon="@drawable/icon" android:label="Matte">
     </application>

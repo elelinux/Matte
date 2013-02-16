@@ -117,6 +117,7 @@
     <item name="drawable/ic_qs_clock_hour">@drawable/com_android_systemui_ic_qs_clock_hour</item>
     <item name="drawable/ic_qs_clock_minute">@drawable/com_android_systemui_ic_qs_clock_minute</item>
     <item name="drawable/ic_qs_default_user">@drawable/com_android_systemui_ic_qs_default_user</item>
+    <item name="drawable/ic_qs_fbgt_on">@drawable/com_android_systemui_ic_qs_fbgt_on</item>
     <item name="drawable/ic_qs_fcharge_off">@drawable/com_android_systemui_ic_qs_fcharge_off</item>
     <item name="drawable/ic_qs_fcharge_on">@drawable/com_android_systemui_ic_qs_fcharge_on</item>
     <item name="drawable/ic_qs_gps_location">@drawable/com_android_systemui_ic_qs_gps_location</item>
@@ -129,6 +130,8 @@
     <item name="drawable/ic_qs_lock_screen_on">@drawable/com_android_systemui_ic_qs_lock_screen_on</item>
     <item name="drawable/ic_qs_lte_off">@drawable/com_android_systemui_ic_qs_lte_off</item>
     <item name="drawable/ic_qs_lte_on">@drawable/com_android_systemui_ic_qs_lte_on</item>
+    <item name="drawable/ic_qs_navbar_hide_off">@drawable/com_android_systemui_ic_qs_navbar_hide_off</item>
+    <item name="drawable/ic_qs_navbar_hide_on">@drawable/com_android_systemui_ic_qs_navbar_hide_on</item>
     <item name="drawable/ic_qs_nfc_off">@drawable/com_android_systemui_ic_qs_nfc_off</item>
     <item name="drawable/ic_qs_nfc_on">@drawable/com_android_systemui_ic_qs_nfc_on</item>
     <item name="drawable/ic_qs_profiles">@drawable/com_android_systemui_ic_qs_profiles</item>
@@ -177,6 +180,7 @@
     <item name="drawable/ic_qs_sleep">@drawable/com_android_systemui_ic_qs_sleep</item>
     <item name="drawable/ic_qs_sound_off">@drawable/com_android_systemui_ic_qs_sound_off</item>
     <item name="drawable/ic_qs_sound_on">@drawable/com_android_systemui_ic_qs_sound_on</item>
+    <item name="drawable/ic_qs_swagger">@drawable/com_android_systemui_ic_qs_swagger</item>
     <item name="drawable/ic_qs_sync_off">@drawable/com_android_systemui_ic_qs_sync_off</item>
     <item name="drawable/ic_qs_sync_on">@drawable/com_android_systemui_ic_qs_sync_on</item>
     <item name="drawable/ic_qs_torch_off">@drawable/com_android_systemui_ic_qs_torch_off</item>
