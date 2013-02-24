@@ -145,7 +145,10 @@
     <item name="drawable/ic_menu_remove_video">@drawable/com_android_mms_ic_menu_remove_video</item>
     <item name="drawable/ic_missing_thumbnail_picture">@drawable/com_android_mms_ic_missing_thumbnail_picture</item>
     <item name="drawable/ic_missing_thumbnail_video">@drawable/com_android_mms_ic_missing_thumbnail_video</item>
+    <item name="drawable/ic_send_disabled_holo_dark">@drawable/com_android_mms_ic_send_disabled_holo_dark</item>
+    <item name="drawable/ic_send_disabled_holo_light">@drawable/com_android_mms_ic_send_disabled_holo_light</item>
     <item name="drawable/ic_send_disabled_holo_light">@drawable/com_android_mms_ic_send_holo_light</item>
+    <item name="drawable/ic_send_holo_dark">@drawable/com_android_mms_ic_send_holo_dark</item>
     <item name="drawable/ic_send_holo_dark">@drawable/com_android_mms_ic_send_holo_light</item>
     <item name="drawable/ic_send_holo_light">@drawable/com_android_mms_ic_send_holo_light</item>
     <item name="drawable/line_divider_arrow">@drawable/com_android_mms_line_divider_arrow</item>
