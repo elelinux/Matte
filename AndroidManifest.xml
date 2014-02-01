@@ -19,8 +19,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.tmobile.theme.Matte"
-    android:versionCode="13"
-    android:versionName="1.0.0.8"
+    android:versionCode="14"
+    android:versionName="1.0.0.9"
     android:installLocation="internalOnly"
     android:hasCode="false">
 
